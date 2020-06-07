@@ -4,7 +4,7 @@ public class PositiveNegativeZero {
         if (number > 0) {
             System.out.println("positive");
         } else if (number == 0) {
-            System.out.println("equal to 0");
+            System.out.println("zero");
         } else {
             System.out.println("negative");
         }
